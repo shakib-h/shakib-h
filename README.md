@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shakib H.
 - 🌐 [shakib.com.bd](https://shakib.com.bd)
 - 🌐 [shakibhassan.com](https://shakibhassan.com)
-- 📫 hello@shakibhassan.com
+- 📫 hello@shakib.com.bd
 
 <!---
 trojanshakib/trojanshakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
