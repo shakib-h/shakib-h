@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shakib H.
 - 🌐 [shakib.com.bd](https://shakib.com.bd)
-- 🌐 [shakibhassan.com](https://shakibhassan.com)
+<!-- - 🌐 [shakibhassan.com](https://shakibhassan.com)-->
 - 📫 hello@shakib.com.bd
 
 <!---
